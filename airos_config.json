@@ -1,0 +1,8 @@
+{
+    "name": "AirOS",
+    "homepage": "http://airos-satis.pagodabox.com",
+    "repositories": [
+        { "type": "vcs", "url": "http://github.com/airos/AirOSCoreBundle" }
+   ],
+    "require-all": true
+}
