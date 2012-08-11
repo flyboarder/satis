@@ -22,6 +22,3 @@ web1:
 
     after_build:
      - "bash pagodabox/after_build.sh"
-
-    after_deploy:
-     - "bash pagodabox/after_deploy.sh"
