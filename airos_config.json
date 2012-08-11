@@ -2,7 +2,7 @@
     "name": "AirOS",
     "homepage": "http://airos-satis.pagodabox.com",
     "repositories": [
-        { "type": "vcs", "url": "http://github.com/airos/CoreBundle" }
+        { "type": "git", "url": "git://github.com/AirOS/CoreBundle.git" }
    ],
     "require-all": true
 }
