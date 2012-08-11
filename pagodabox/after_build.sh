@@ -9,3 +9,6 @@ fi
 
 echo 'Install the needed vendors for this application.'
 $PHP composer.phar install --verbose
+
+echo 'Build Satis Repo.'
+$PHP bin/satis build airos_config.json web/
