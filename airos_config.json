@@ -2,7 +2,8 @@
     "name": "AirOS",
     "homepage": "http://airos-satis.pagodabox.com",
     "repositories": [
-        { "type": "vcs", "url": "http://github.com/AirOS/CoreBundle" }
+        { "type": "vcs", "url": "http://github.com/AirOS/CoreBundle" },
+        { "type": "vcs", "url": "http://github.com/AirOS/composer_installers" }
    ],
     "require-all": true
 }
