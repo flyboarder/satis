@@ -4,7 +4,6 @@
     "repositories": [
         { "type": "vcs", "url": "http://github.com/AirOS/AirOS" },
         { "type": "vcs", "url": "http://github.com/AirOS/CoreBundle" },
-        { "type": "vcs", "url": "http://github.com/AirOS/composer_installers" }
    ],
     "require-all": true
 }
