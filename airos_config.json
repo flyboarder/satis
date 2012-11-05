@@ -1,6 +1,6 @@
 {
-    "name": "AirOS Core",
-    "homepage": "http://airos-repo-core.pagodabox.com",
+    "name": "AirOS",
+    "homepage": "http://airos-repo.pagodabox.com",
     "repositories": [
         { "type": "vcs", "url": "http://github.com/AirOS/AirOS" },
         { "type": "vcs", "url": "http://github.com/AirOS/AutomagicBundle" }
