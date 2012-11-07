@@ -3,7 +3,8 @@
     "homepage": "http://airos-repo.pagodabox.com",
     "repositories": [
         { "type": "vcs", "url": "http://github.com/AirOS/AirOS" },
-        { "type": "vcs", "url": "http://github.com/AirOS/AutomagicBundle" }
+        { "type": "vcs", "url": "http://github.com/AirOS/AutomagicBundle" },
+        { "type": "vcs", "url": "http://github.com/flyboarder/AutomagicBundle" }
    ],
     "require-all": true
 }
